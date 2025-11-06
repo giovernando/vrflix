@@ -42,7 +42,7 @@ export const Navbar = () => {
         <div className="flex items-center gap-8">
           <Link to="/" className="flex items-center">
             <h1 className="text-primary text-3xl font-bold tracking-tight">
-              VRFLIX
+              VERFLIX
             </h1>
           </Link>
 
