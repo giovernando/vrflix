@@ -67,7 +67,7 @@ export const Footer = () => {
         </div>
 
         {/* Copyright */}
-        <p className="text-sm">© 2025 Netflix Clone. Built with React & Lovable Cloud.</p>
+        <p className="text-sm">© 2025 VERFLIX. Built with React.</p>
       </div>
     </footer>
   );
